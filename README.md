@@ -4,7 +4,7 @@ GAK SUBSCRIBE GA WORK WAKAKAK
 
 
 ```
-"whiskeyshocket/Baileys": "github:Awafff/XyrezzNotSepuh",
+"@whiskeysockets/baileys": "github:Awafff/XyrezzNotSepuh",
 ```
 <br><br><br>
 <a href="https://whatsapp.com/channel/0029VacxTsC8F2p5dshCmq3r">MY CHANNEL OFFICIAL #1</a><br><br>
