@@ -6,6 +6,11 @@ GAK SUBSCRIBE GA WORK WAKAKAK
 ```
 "@whiskeysockets/baileys": "github:Awafff/XyrezzNotSepuh",
 ```
+
+BISA JUGA DENGAN
+````
+"@Awafff/RerezOfficial": "github:Awafff/XyrezzNotSepuh",
+```
 <br><br><br>
 <a href="https://whatsapp.com/channel/0029VacxTsC8F2p5dshCmq3r">MY CHANNEL OFFICIAL #1</a><br><br>
 <a href="https://whatsapp.com/channel/0029VaofHDeI7BeLcrFY9744">MY CHANNEL OFFICIAL #2</a><br><br>
