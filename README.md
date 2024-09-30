@@ -7,7 +7,7 @@ GAK SUBSCRIBE GA WORK WAKAKAK
 "@whiskeysockets/baileys": "github:Awafff/XyrezzNotSepuh",
 ```
 
-BISA JUGA DENGAN
+BISA JUGA DENGAN<br>
 ````
 "@Awafff/RerezOfficial": "github:Awafff/XyrezzNotSepuh",
 ```
